@@ -9,8 +9,8 @@ app.use(express.json());
 // Create MySQL connection
 const db = mysql.createConnection({
     host: 'localhost',
-    user: 'root',
-    password: 'psnl@8904',
+    user: '', //your username
+    password: '', //your password
     database: 'food_delivery_db'
 });
 
