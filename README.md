@@ -5,4 +5,7 @@ The Food Delivery Management System is a platform designed to streamline the foo
 ## To run the code
 
 - Open cmd in the directory food-delivery-backend, run the command "node server.js" this will get your backend running.
-- Open cmd in the directory food-delivery-frontend, run the command "npm dev run " this will get your frontend running.
+- Open cmd in the directory food-delivery-frontend, run the command "npm run dev" this will get your frontend running.
+- Open the port shown when you run frontend in your browser and you can use the website.
+
+  
